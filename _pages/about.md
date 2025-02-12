@@ -6,7 +6,7 @@ subtitle: Research Scientist, <a href='#'>Cold Spring Harbor Laboratory, New Yor
 
 profile:
   align: left
-  image: ire0101.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     Contact: iresanchez86@hotmail.com<br>
